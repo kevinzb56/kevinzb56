@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m Kevin
+- 📫 How to reach me ... 143kevinshah@gmail.com
+- 😄 Pronouns: ... He/Him
+
 <!--
 **kevinzb56/kevinzb56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
